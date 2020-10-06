@@ -1,3 +1,4 @@
-# Sharos
-sharos by @Slyco12 for sharing your connection/n
-You can share your wireless or your lan connection
+# About
+sharos by @Slyco12 for sharing your connection.
+
+You can share your wlan or your lan connection
