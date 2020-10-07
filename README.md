@@ -9,4 +9,4 @@ All kinds of contributions are welcome raised_hands°_* The most basic way to sh
 Thanks again for your support, it is much appreciated! pray
 
 # License
-MIT. See LICENSE for more details.
+BSD-2. See LICENSE for more details.
